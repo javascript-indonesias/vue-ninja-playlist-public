@@ -1,6 +1,6 @@
 # Ninja Playlists
 
-![Alt Image](https://raw.githubusercontent.com/javascript-indonesias/ninja-dojo-blog/master/demo_blogdojo.png)
+![Alt Image](https://raw.githubusercontent.com/javascript-indonesias/vue-ninja-playlist-public/master/ScreenshotApp.png)
 
 Aplikasi sederhana membuat Aplikasi Catatan Playlist Vue JS 3 dari course Net Ninja Udemy menggunakan Composition API dan Firebase, Firebase Authentication, Firestore, dan Firebase Storage. Konfigurasi Firebase perlu dibuat di dashboard Firebase Console , dokumentasi lebih lanjut dapat dilihat disini [Web Setup](https://firebase.google.com/docs/web/setup) dan [Console Settings](https://console.firebase.google.com/project/ninja-playlists/settings/general/) . Konfigurasi Firebase dikumpulkan di dalam file  ***src/firebase/config.js*** .
 
