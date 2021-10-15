@@ -8,6 +8,8 @@ Aplikasi Vue JS latihan dari course Udemy Net Ninja untuk latihan Firebase Compo
 
 [Github Repo Sources https://github.com/iamshaunjp/Vue-3-Firebase](https://github.com/iamshaunjp/Vue-3-Firebase)
 
+Course ini sudah [selesai](https://www.udemy.com/certificate/UC-a10cacf7-01b2-490a-9825-4cab17fce8b8/) dan sampel project dapat dicoba untuk latihan. Sampel project ini telah diperbarui menggunakan Firebase Web versi 9.x dengan ES Module terbaru.
+
 ## Project setup
 
 ```sh
